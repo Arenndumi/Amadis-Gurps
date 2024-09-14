@@ -1,0 +1,2378 @@
+{
+	"version": 5,
+	"id": "ARmJoRr8GQqJDUCxt",
+	"total_points": 0,
+	"profile": {
+		"name": "Ignishell",
+		"portrait": "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"
+	},
+	"settings": {
+		"page": {
+			"paper_size": "a4",
+			"orientation": "portrait",
+			"top_margin": "0.25 in",
+			"left_margin": "0.25 in",
+			"bottom_margin": "0.25 in",
+			"right_margin": "0.25 in"
+		},
+		"block_layout": [
+			"reactions",
+			"melee",
+			"ranged",
+			"traits skills",
+			"spells",
+			"equipment",
+			"other_equipment",
+			"notes",
+			"conditional_modifiers"
+		],
+		"attributes": [
+			{
+				"id": "st",
+				"type": "integer",
+				"name": "ST",
+				"full_name": "Strength",
+				"attribute_base": "10",
+				"cost_per_point": 10,
+				"cost_adj_percent_per_sm": 10
+			},
+			{
+				"id": "dx",
+				"type": "integer",
+				"name": "DX",
+				"full_name": "Dexterity",
+				"attribute_base": "10",
+				"cost_per_point": 20
+			},
+			{
+				"id": "iq",
+				"type": "integer",
+				"name": "IQ",
+				"full_name": "Intelligence",
+				"attribute_base": "10",
+				"cost_per_point": 20
+			},
+			{
+				"id": "ht",
+				"type": "integer",
+				"name": "HT",
+				"full_name": "Health",
+				"attribute_base": "10",
+				"cost_per_point": 10
+			},
+			{
+				"id": "will",
+				"type": "integer",
+				"name": "Will",
+				"attribute_base": "$iq",
+				"cost_per_point": 5
+			},
+			{
+				"id": "fright_check",
+				"type": "integer",
+				"name": "Fright Check",
+				"attribute_base": "$will",
+				"cost_per_point": 2
+			},
+			{
+				"id": "per",
+				"type": "integer",
+				"name": "Per",
+				"full_name": "Perception",
+				"attribute_base": "$iq",
+				"cost_per_point": 5
+			},
+			{
+				"id": "vision",
+				"type": "integer",
+				"name": "Vision",
+				"attribute_base": "$per",
+				"cost_per_point": 2
+			},
+			{
+				"id": "hearing",
+				"type": "integer",
+				"name": "Hearing",
+				"attribute_base": "$per",
+				"cost_per_point": 2
+			},
+			{
+				"id": "taste_smell",
+				"type": "integer",
+				"name": "Taste \u0026 Smell",
+				"attribute_base": "$per",
+				"cost_per_point": 2
+			},
+			{
+				"id": "touch",
+				"type": "integer",
+				"name": "Touch",
+				"attribute_base": "$per",
+				"cost_per_point": 2
+			},
+			{
+				"id": "basic_speed",
+				"type": "decimal",
+				"name": "Basic Speed",
+				"attribute_base": "($dx+$ht)/4",
+				"cost_per_point": 20
+			},
+			{
+				"id": "basic_move",
+				"type": "integer",
+				"name": "Basic Move",
+				"attribute_base": "floor($basic_speed)",
+				"cost_per_point": 5
+			},
+			{
+				"id": "fp",
+				"type": "pool",
+				"name": "FP",
+				"full_name": "Fatigue Points",
+				"attribute_base": "$ht",
+				"cost_per_point": 3,
+				"thresholds": [
+					{
+						"state": "Unconscious",
+						"expression": "-$fp",
+						"ops": [
+							"halve_move",
+							"halve_dodge",
+							"halve_st"
+						]
+					},
+					{
+						"state": "Collapse",
+						"expression": "0",
+						"explanation": "Roll vs. Will to do anything besides talk or rest; failure causes unconsciousness\nEach FP you lose below 0 also causes 1 HP of injury\nMove, Dodge and ST are halved (B426)",
+						"ops": [
+							"halve_move",
+							"halve_dodge",
+							"halve_st"
+						]
+					},
+					{
+						"state": "Tired",
+						"expression": "round($fp/3)",
+						"explanation": "Move, Dodge and ST are halved (B426)",
+						"ops": [
+							"halve_move",
+							"halve_dodge",
+							"halve_st"
+						]
+					},
+					{
+						"state": "Tiring",
+						"expression": "$fp-1"
+					},
+					{
+						"state": "Rested",
+						"expression": "$fp"
+					}
+				]
+			},
+			{
+				"id": "hp",
+				"type": "pool",
+				"name": "HP",
+				"full_name": "Hit Points",
+				"attribute_base": "$st",
+				"cost_per_point": 2,
+				"cost_adj_percent_per_sm": 10,
+				"thresholds": [
+					{
+						"state": "Dead",
+						"expression": "round(-$hp*5)",
+						"ops": [
+							"halve_move",
+							"halve_dodge"
+						]
+					},
+					{
+						"state": "Dying #4",
+						"expression": "round(-$hp*4)",
+						"explanation": "Roll vs. HT to avoid death\nRoll vs. HT-4 every second to avoid falling unconscious\nMove and Dodge are halved (B419)",
+						"ops": [
+							"halve_move",
+							"halve_dodge"
+						]
+					},
+					{
+						"state": "Dying #3",
+						"expression": "round(-$hp*3)",
+						"explanation": "Roll vs. HT to avoid death\nRoll vs. HT-3 every second to avoid falling unconscious\nMove and Dodge are halved (B419)",
+						"ops": [
+							"halve_move",
+							"halve_dodge"
+						]
+					},
+					{
+						"state": "Dying #2",
+						"expression": "round(-$hp*2)",
+						"explanation": "Roll vs. HT to avoid death\nRoll vs. HT-2 every second to avoid falling unconscious\nMove and Dodge are halved (B419)",
+						"ops": [
+							"halve_move",
+							"halve_dodge"
+						]
+					},
+					{
+						"state": "Dying #1",
+						"expression": "-$hp",
+						"explanation": "Roll vs. HT to avoid death\nRoll vs. HT-1 every second to avoid falling unconscious\nMove and Dodge are halved (B419)",
+						"ops": [
+							"halve_move",
+							"halve_dodge"
+						]
+					},
+					{
+						"state": "Collapse",
+						"expression": "0",
+						"explanation": "Roll vs. HT every second to avoid falling unconscious\nMove and Dodge are halved (B419)",
+						"ops": [
+							"halve_move",
+							"halve_dodge"
+						]
+					},
+					{
+						"state": "Reeling",
+						"expression": "round($hp/3)",
+						"explanation": "Move and Dodge are halved (B419)",
+						"ops": [
+							"halve_move",
+							"halve_dodge"
+						]
+					},
+					{
+						"state": "Wounded",
+						"expression": "$hp-1"
+					},
+					{
+						"state": "Healthy",
+						"expression": "$hp"
+					}
+				]
+			}
+		],
+		"body_type": {
+			"name": "Humanoid",
+			"roll": "3d",
+			"locations": [
+				{
+					"id": "eye",
+					"choice_name": "Eyes",
+					"table_name": "Eyes",
+					"hit_penalty": -9,
+					"description": "An attack that misses by 1 hits the torso instead. Only\nimpaling (imp), piercing (pi-, pi, pi+, pi++), and\ntight-beam burning (burn) attacks can target the eye – and\nonly from the front or sides. Injury over HP÷10 blinds the\neye. Otherwise, treat as skull, but without the extra DR!",
+					"calc": {
+						"roll_range": "-",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "skull",
+					"choice_name": "Skull",
+					"table_name": "Skull",
+					"slots": 2,
+					"hit_penalty": -7,
+					"dr_bonus": 2,
+					"description": "An attack that misses by 1 hits the torso instead. Wounding\nmodifier is x4. Knockdown rolls are at -10. Critical hits\nuse the Critical Head Blow Table (B556). Exception: These\nspecial effects do not apply to toxic (tox) damage.",
+					"calc": {
+						"roll_range": "3-4",
+						"dr": {
+							"all": 5
+						}
+					}
+				},
+				{
+					"id": "face",
+					"choice_name": "Face",
+					"table_name": "Face",
+					"slots": 1,
+					"hit_penalty": -5,
+					"description": "An attack that misses by 1 hits the torso instead. Jaw,\ncheeks, nose, ears, etc. If the target has an open-faced\nhelmet, ignore its DR. Knockdown rolls are at -5. Critical\nhits use the Critical Head Blow Table (B556). Corrosion\n(cor) damage gets a x1½ wounding modifier, and if it\ninflicts a major wound, it also blinds one eye (both eyes on\ndamage over full HP). Random attacks from behind hit the\nskull instead.",
+					"calc": {
+						"roll_range": "5",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "leg",
+					"choice_name": "Leg",
+					"table_name": "Right Leg",
+					"slots": 2,
+					"hit_penalty": -2,
+					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost.",
+					"calc": {
+						"roll_range": "6-7",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "arm",
+					"choice_name": "Arm",
+					"table_name": "Right Arm",
+					"slots": 1,
+					"hit_penalty": -2,
+					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost. If holding a shield,\ndouble the penalty to hit: -4 for shield arm instead of -2.",
+					"calc": {
+						"roll_range": "8",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "torso",
+					"choice_name": "Torso",
+					"table_name": "Torso",
+					"slots": 2,
+					"calc": {
+						"roll_range": "9-10",
+						"dr": {
+							"all": 4
+						}
+					}
+				},
+				{
+					"id": "groin",
+					"choice_name": "Groin",
+					"table_name": "Groin",
+					"slots": 1,
+					"hit_penalty": -3,
+					"description": "An attack that misses by 1 hits the torso instead. Human\nmales and the males of similar species suffer double shock\nfrom crushing (cr) damage, and get -5 to knockdown rolls.\nOtherwise, treat as a torso hit.",
+					"calc": {
+						"roll_range": "11",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "arm",
+					"choice_name": "Arm",
+					"table_name": "Left Arm",
+					"slots": 1,
+					"hit_penalty": -2,
+					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost. If holding a shield,\ndouble the penalty to hit: -4 for shield arm instead of -2.",
+					"calc": {
+						"roll_range": "12",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "leg",
+					"choice_name": "Leg",
+					"table_name": "Left Leg",
+					"slots": 2,
+					"hit_penalty": -2,
+					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost.",
+					"calc": {
+						"roll_range": "13-14",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "hand",
+					"choice_name": "Hand",
+					"table_name": "Hand",
+					"slots": 1,
+					"hit_penalty": -4,
+					"description": "If holding a shield, double the penalty to hit: -8 for\nshield hand instead of -4. Reduce the wounding multiplier of\nlarge piercing (pi+), huge piercing (pi++), and impaling\n(imp) damage to x1. Any major wound (loss of over ⅓ HP\nfrom one blow) cripples the extremity. Damage beyond that\nthreshold is lost.",
+					"calc": {
+						"roll_range": "15",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "foot",
+					"choice_name": "Foot",
+					"table_name": "Foot",
+					"slots": 1,
+					"hit_penalty": -4,
+					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ⅓ HP from one blow) cripples the\nextremity. Damage beyond that threshold is lost.",
+					"calc": {
+						"roll_range": "16",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "neck",
+					"choice_name": "Neck",
+					"table_name": "Neck",
+					"slots": 2,
+					"hit_penalty": -5,
+					"description": "An attack that misses by 1 hits the torso instead. Neck and\nthroat. Increase the wounding multiplier of crushing (cr)\nand corrosion (cor) attacks to x1½, and that of cutting\n(cut) damage to x2. At the GM’s option, anyone killed by a\ncutting (cut) blow to the neck is decapitated!",
+					"calc": {
+						"roll_range": "17-18",
+						"dr": {
+							"all": 3
+						}
+					}
+				},
+				{
+					"id": "vitals",
+					"choice_name": "Vitals",
+					"table_name": "Vitals",
+					"hit_penalty": -3,
+					"description": "An attack that misses by 1 hits the torso instead. Heart,\nlungs, kidneys, etc. Increase the wounding modifier for an\nimpaling (imp) or any piercing (pi-, pi, pi+, pi++) attack\nto x3. Increase the wounding modifier for a tight-beam\nburning (burn) attack to x2. Other attacks cannot target the\nvitals.",
+					"calc": {
+						"roll_range": "-",
+						"dr": {
+							"all": 3
+						}
+					}
+				}
+			]
+		},
+		"damage_progression": "basic_set",
+		"default_length_units": "ft_in",
+		"default_weight_units": "lb",
+		"user_description_display": "tooltip",
+		"modifiers_display": "inline",
+		"notes_display": "inline",
+		"skill_level_adj_display": "tooltip",
+		"show_spell_adj": true,
+		"exclude_unspent_points_from_total": false
+	},
+	"attributes": [
+		{
+			"attr_id": "st",
+			"adj": -10,
+			"calc": {
+				"value": 10,
+				"points": -60
+			}
+		},
+		{
+			"attr_id": "dx",
+			"adj": -10,
+			"calc": {
+				"value": 8,
+				"points": -120
+			}
+		},
+		{
+			"attr_id": "iq",
+			"adj": -10,
+			"calc": {
+				"value": 4,
+				"points": -200
+			}
+		},
+		{
+			"attr_id": "ht",
+			"adj": -10,
+			"calc": {
+				"value": 9,
+				"points": -100
+			}
+		},
+		{
+			"attr_id": "will",
+			"adj": 0,
+			"calc": {
+				"value": 4,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "fright_check",
+			"adj": 0,
+			"calc": {
+				"value": 4,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "per",
+			"adj": 0,
+			"calc": {
+				"value": 4,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "vision",
+			"adj": 0,
+			"calc": {
+				"value": 4,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "hearing",
+			"adj": 0,
+			"calc": {
+				"value": 4,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "taste_smell",
+			"adj": 0,
+			"calc": {
+				"value": 4,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "touch",
+			"adj": 0,
+			"calc": {
+				"value": 4,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "basic_speed",
+			"adj": 0,
+			"calc": {
+				"value": 4.25,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "basic_move",
+			"adj": 0,
+			"calc": {
+				"value": 4,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "fp",
+			"adj": 0,
+			"calc": {
+				"value": 9,
+				"current": 9,
+				"points": 0
+			}
+		},
+		{
+			"attr_id": "hp",
+			"adj": 0,
+			"calc": {
+				"value": 11,
+				"current": 11,
+				"points": 0
+			}
+		}
+	],
+	"traits": [
+		{
+			"id": "TdLjb1cUNwUtGKcQO",
+			"name": "Fire",
+			"container_type": "meta_trait",
+			"children": [
+				{
+					"id": "TPpe4qOxEsq_7EqZd",
+					"name": "Attributes",
+					"children": [
+						{
+							"id": "t8A16g-v2SROpRiVX",
+							"name": "Enhanced Dodge",
+							"reference": "B51",
+							"tags": [
+								"Advantage",
+								"Mental"
+							],
+							"base_points": 15,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "dodge",
+									"amount": 1
+								}
+							],
+							"calc": {
+								"points": 15
+							}
+						},
+						{
+							"id": "tjm0YZrTcVvRmP-PH",
+							"name": "Increased Dexterity",
+							"reference": "B15",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "myXp74gPHa805V1x7",
+									"name": "No Fine Manipulators",
+									"cost": -40
+								}
+							],
+							"points_per_level": 20,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "dx",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 3,
+							"calc": {
+								"points": 36
+							}
+						},
+						{
+							"id": "tis10y9czaUH08xuh",
+							"name": "Increased Health",
+							"reference": "B14",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Physical"
+							],
+							"points_per_level": 10,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "ht",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 1,
+							"calc": {
+								"points": 10
+							}
+						},
+						{
+							"id": "ts27LY_jBDhlorYD1",
+							"name": "Thermal Infrared Vision",
+							"reference": "PES8",
+							"tags": [
+								"Advantage",
+								"Exotic",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mS9Q_5dKQl5nGNjyc",
+									"name": "No normal vision",
+									"reference": "B60",
+									"cost": -10,
+									"cost_type": "points",
+									"disabled": true
+								}
+							],
+							"base_points": 10,
+							"calc": {
+								"points": 10
+							}
+						},
+						{
+							"id": "tmNo6HZ7GLdHB7cZb",
+							"name": "Temperature Tolerance",
+							"reference": "B93",
+							"notes": "heat",
+							"tags": [
+								"Advantage",
+								"Physical"
+							],
+							"points_per_level": 1,
+							"can_level": true,
+							"levels": 4,
+							"calc": {
+								"points": 4
+							}
+						}
+					],
+					"calc": {
+						"points": 75
+					}
+				},
+				{
+					"id": "TqPmFULP5Wag3vQKa",
+					"name": "basic",
+					"children": [
+						{
+							"id": "ti7xoDrh1xKCcNwTx",
+							"name": "Innate Attack (Fireball)",
+							"reference": "B61",
+							"tags": [
+								"Advantage",
+								"Exotic",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mAyIbjzPeS8NiUbWa",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "1 sec",
+									"cost": 100,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mm5doTyYVQgMzylpn",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "10 sec",
+									"cost": 50,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mffDo5ja9mssYFDpo",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "1 min",
+									"cost": 40,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mJuYiATV_mww9lS2-",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "1 hr",
+									"cost": 20,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mF6pb0_-8UOuKMkkm",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "1 day",
+									"cost": 10,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mAHnW0viUsikhxs9C",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "1 sec; Resistible",
+									"cost": 50,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mmnu-UQc6uTaNG3s8",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "10 sec; Resistible",
+									"cost": 25,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mvJQhial3eXwiLxIS",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "1 min; Resistible",
+									"cost": 20,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mp5rwGyxxWAUChXsq",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "1 hr; Resistible",
+									"cost": 10,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mJsqwyckrTNd4wiDJ",
+									"name": "Cyclic",
+									"reference": "B103",
+									"notes": "1 day; Resistible",
+									"cost": 5,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "m4kYF28jrGShxfSpk",
+									"name": "Contagious",
+									"reference": "B103",
+									"notes": "Mildly",
+									"cost": 20,
+									"disabled": true
+								},
+								{
+									"id": "md9ViaL4q9-P-yFQ6",
+									"name": "Contagious",
+									"reference": "B103",
+									"notes": "Highly",
+									"cost": 50,
+									"disabled": true
+								},
+								{
+									"id": "mC8l4rClaH2c06L6P",
+									"name": "Double Blunt Trauma",
+									"reference": "B104",
+									"notes": "1HP per 10 dmg",
+									"cost": 20,
+									"disabled": true
+								},
+								{
+									"id": "mvcELpzdi-Qwkb-kg",
+									"name": "Explosion",
+									"reference": "B104",
+									"cost": 50,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mUK3h6AHBM02mWVp_",
+									"name": "Fragmentation",
+									"reference": "B104",
+									"cost": 15,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mvTWJyB8JKWqdC0DU",
+									"name": "Fragmentation",
+									"reference": "B104",
+									"notes": "Hot",
+									"cost": 15,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "m5zvp1nGCOqeEIiiC",
+									"name": "Radiation",
+									"reference": "B104",
+									"cost": 100,
+									"disabled": true
+								},
+								{
+									"id": "m19Geqa40nhexATdj",
+									"name": "Surge",
+									"reference": "B104",
+									"cost": 20,
+									"disabled": true
+								},
+								{
+									"id": "m5Pgx1dd7OiPHRW1V",
+									"name": "Armor Divisor",
+									"reference": "B102",
+									"notes": "2",
+									"cost": 50,
+									"disabled": true
+								},
+								{
+									"id": "mbMysogBtE-ZkapSI",
+									"name": "Armor Divisor",
+									"reference": "B102",
+									"notes": "3",
+									"cost": 100,
+									"disabled": true
+								},
+								{
+									"id": "mGYwX2dHhG64VeKFU",
+									"name": "Armor Divisor",
+									"reference": "B102",
+									"notes": "5",
+									"cost": 150,
+									"disabled": true
+								},
+								{
+									"id": "m0AVMGQfRipeLkJXO",
+									"name": "Armor Divisor",
+									"reference": "B102",
+									"notes": "10",
+									"cost": 200,
+									"disabled": true
+								},
+								{
+									"id": "mobIIrCLHig3UQ_D6",
+									"name": "Side Effect",
+									"reference": "B109",
+									"notes": "@Effect@",
+									"disabled": true
+								},
+								{
+									"id": "mfF7CNQ3c7MBJ9Phj",
+									"name": "Symptoms",
+									"reference": "B109",
+									"notes": "@Effect@",
+									"disabled": true
+								},
+								{
+									"id": "mtICq4WRhkrgjJxAb",
+									"name": "Armor Divisor",
+									"reference": "B110",
+									"notes": "0.5",
+									"cost": -30,
+									"disabled": true
+								},
+								{
+									"id": "mx1sTc8givEdFuENJ",
+									"name": "Armor Divisor",
+									"reference": "B110",
+									"notes": "0.2",
+									"cost": -50,
+									"disabled": true
+								},
+								{
+									"id": "mC4cE3MtHeq7K0esD",
+									"name": "Armor Divisor",
+									"reference": "B110",
+									"notes": "0.1",
+									"cost": -70,
+									"disabled": true
+								},
+								{
+									"id": "mVff6U-jfQ9WTb1sT",
+									"name": "No Wounding",
+									"reference": "B111",
+									"cost": -50,
+									"disabled": true
+								},
+								{
+									"id": "mCVooGQ3vZ9GGBDX9",
+									"name": "Surge, Arcing",
+									"reference": "PSI20",
+									"cost": 100,
+									"disabled": true
+								}
+							],
+							"points_per_level": 5,
+							"weapons": [
+								{
+									"id": "Wc47E9tNw0JhHNKD1",
+									"damage": {
+										"type": "burn",
+										"base": "1d"
+									},
+									"usage": "breath",
+									"accuracy": "3",
+									"range": "5/50",
+									"rate_of_fire": "1",
+									"recoil": "1",
+									"defaults": [
+										{
+											"type": "skill",
+											"name": "Innate Attack",
+											"specialization": "breath"
+										},
+										{
+											"type": "skill",
+											"name": "Innate Attack",
+											"modifier": -2
+										},
+										{
+											"type": "dx",
+											"modifier": -4
+										}
+									],
+									"calc": {
+										"level": 9,
+										"damage": "1d burn"
+									}
+								}
+							],
+							"can_level": true,
+							"levels": 1,
+							"calc": {
+								"points": 5
+							}
+						}
+					],
+					"calc": {
+						"points": 5
+					}
+				}
+			],
+			"calc": {
+				"points": 80
+			}
+		},
+		{
+			"id": "TDmF7NH3IdKZW8dnm",
+			"name": "turtle",
+			"ancestry": "Human",
+			"container_type": "ancestry",
+			"children": [
+				{
+					"id": "Tuzitj_EyOyuBTyKf",
+					"name": "Amadis",
+					"children": [
+						{
+							"id": "tnKN_349ERQcrLbL-",
+							"name": "Bestial",
+							"reference": "B124",
+							"tags": [
+								"Disadvantage",
+								"Exotic",
+								"Mental"
+							],
+							"base_points": -10,
+							"calc": {
+								"points": -10
+							}
+						},
+						{
+							"id": "ta8_s1wuLkl7JJUSe",
+							"name": "primitive Speak",
+							"reference": "B125",
+							"tags": [
+								"Disadvantage",
+								"Physical"
+							],
+							"prereqs": {
+								"type": "prereq_list",
+								"all": true,
+								"prereqs": [
+									{
+										"type": "trait_prereq",
+										"has": false,
+										"name": {
+											"compare": "is",
+											"qualifier": "stuttering"
+										}
+									}
+								]
+							},
+							"base_points": -7,
+							"calc": {
+								"points": -7
+							}
+						}
+					],
+					"calc": {
+						"points": -17
+					}
+				},
+				{
+					"id": "TTD8HFiVOYPItPnP4",
+					"name": "Attributes",
+					"children": [
+						{
+							"id": "tUnpDk7OsTjrbRoni",
+							"name": "Damage Resistance",
+							"reference": "B47",
+							"tags": [
+								"Advantage",
+								"Exotic",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mnuwoFWKZf_q3KCpp",
+									"name": "Force Field",
+									"reference": "B47",
+									"cost": 20,
+									"disabled": true
+								},
+								{
+									"id": "mk6JtOY1mSsoSPN-H",
+									"name": "Hardened",
+									"reference": "B47",
+									"cost": 20,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mdcLZnqgcIkkz0HaV",
+									"name": "Absorption",
+									"reference": "B46",
+									"notes": "Enhances @Trait@",
+									"cost": 80,
+									"disabled": true
+								},
+								{
+									"id": "miXaNgvTyod8eCzL-",
+									"name": "Absorption",
+									"reference": "B46",
+									"notes": "Healing only",
+									"cost": 80,
+									"disabled": true
+								},
+								{
+									"id": "m_FIZ0rN1_KOJig7-",
+									"name": "Absorption",
+									"reference": "B46",
+									"notes": "Enhances any trait",
+									"cost": 100,
+									"disabled": true
+								},
+								{
+									"id": "m8-DEmKbhciuWH3Q5",
+									"name": "Reflection",
+									"reference": "B47",
+									"cost": 100,
+									"disabled": true
+								},
+								{
+									"id": "mrQJtVmS13drNgLND",
+									"name": "Bane",
+									"reference": "H14",
+									"notes": "@Rare@",
+									"cost": -1,
+									"cost_type": "points",
+									"disabled": true
+								},
+								{
+									"id": "mVb-j-QEkeYKZTfkT",
+									"name": "Bane",
+									"reference": "H14",
+									"notes": "@Occasional@",
+									"cost": -5,
+									"disabled": true
+								},
+								{
+									"id": "mv8LugfRrzSyVM8Nu",
+									"name": "Bane",
+									"reference": "H14",
+									"notes": "@Common@",
+									"cost": -10,
+									"disabled": true
+								},
+								{
+									"id": "mHsgkfJ0Iqd2IIFXA",
+									"name": "Bane",
+									"reference": "H14",
+									"notes": "@Very Common@",
+									"cost": -15,
+									"disabled": true
+								},
+								{
+									"id": "m7Hv6JUvIjQMuHLnO",
+									"name": "Directional",
+									"reference": "B47",
+									"notes": "Front",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "m4NaDMnOp7BFV323H",
+									"name": "Flexible",
+									"reference": "B47",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "mhH5cQmuFY7vNLnSQ",
+									"name": "Limited",
+									"reference": "B46",
+									"notes": "@Very Common Attack Form@",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "muZD4J5oaBscg7ebY",
+									"name": "Semi-Ablative",
+									"reference": "B47",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "mhhl0CYnn5YSTEfey",
+									"name": "Can't wear armor",
+									"reference": "B47",
+									"cost": -40,
+									"disabled": true
+								},
+								{
+									"id": "mv5BVKBim96IuGOQt",
+									"name": "Directional",
+									"reference": "B47",
+									"notes": "Back",
+									"cost": -40
+								},
+								{
+									"id": "mHqGyRNfyGwYvRYXI",
+									"name": "Limited",
+									"reference": "B46",
+									"notes": "@Common Attack Form@",
+									"cost": -40,
+									"disabled": true
+								},
+								{
+									"id": "m5UmiqYy6vK6yh8eM",
+									"name": "Tough Skin",
+									"notes": "Effects that just require skin contact or a scratch ignore this DR",
+									"cost": -40,
+									"disabled": true
+								},
+								{
+									"id": "mhDwKOn41X5x9uA7X",
+									"name": "Limited",
+									"reference": "B46",
+									"notes": "@Occasional Attack Form@",
+									"cost": -60,
+									"disabled": true
+								},
+								{
+									"id": "mZk2hETLDu_deZ5s8",
+									"name": "Ablative",
+									"reference": "B47",
+									"cost": -80,
+									"disabled": true
+								},
+								{
+									"id": "mFHapkeWyjo6ngnwu",
+									"name": "Limited",
+									"reference": "B46",
+									"notes": "@Rare Attack Form@",
+									"cost": -80,
+									"disabled": true
+								},
+								{
+									"id": "mB_2YiMW-XXFg3Fuc",
+									"name": "Laminate",
+									"reference": "RSWL18",
+									"cost": 10,
+									"disabled": true
+								}
+							],
+							"points_per_level": 5,
+							"features": [
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"torso"
+									],
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 1,
+							"calc": {
+								"points": 3
+							}
+						},
+						{
+							"id": "t0wdJTpswCuHkVn7x",
+							"name": "Cold-Blooded",
+							"reference": "B127",
+							"notes": "Under 50-degrees",
+							"tags": [
+								"Disadvantage",
+								"Exotic",
+								"Physical"
+							],
+							"base_points": -5,
+							"calc": {
+								"points": -5
+							}
+						},
+						{
+							"id": "tIoSgYsoMpY0M5LnY",
+							"name": "Decreased Size",
+							"reference": "B17",
+							"tags": [
+								"Physical"
+							],
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "sm",
+									"amount": -1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 3,
+							"calc": {
+								"points": 0
+							}
+						},
+						{
+							"id": "t0h0S3GbwCof_X0Pf",
+							"name": "Increased Dexterity",
+							"reference": "B15",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mjTEMx-E5-RzBpDaN",
+									"name": "No Fine Manipulators",
+									"cost": -40
+								}
+							],
+							"points_per_level": 20,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "dx",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 5,
+							"calc": {
+								"points": 60
+							}
+						},
+						{
+							"id": "tsVLGGVppYP2caMGf",
+							"name": "Increased Health",
+							"reference": "B14",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Physical"
+							],
+							"points_per_level": 10,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "ht",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 6,
+							"calc": {
+								"points": 60
+							}
+						},
+						{
+							"id": "tHIkRBbi-zo_ylKJY",
+							"name": "Breath-Holding",
+							"reference": "B41",
+							"tags": [
+								"Advantage",
+								"Exotic",
+								"Physical"
+							],
+							"points_per_level": 2,
+							"can_level": true,
+							"levels": 3,
+							"calc": {
+								"points": 6
+							}
+						},
+						{
+							"id": "ty908ovf0DIHMIJbU",
+							"name": "No Fine Manipulators",
+							"reference": "B145",
+							"tags": [
+								"Disadvantage",
+								"Physical"
+							],
+							"base_points": -30,
+							"features": [
+								{
+									"type": "cost_reduction",
+									"attribute": "st",
+									"percentage": 40
+								},
+								{
+									"type": "cost_reduction",
+									"attribute": "dx",
+									"percentage": 40
+								}
+							],
+							"calc": {
+								"points": -30
+							}
+						},
+						{
+							"id": "tQBiDoNDFQ34LnkLn",
+							"name": "Increased Intelligence",
+							"reference": "B15",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Mental"
+							],
+							"points_per_level": 20,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "iq",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 4,
+							"calc": {
+								"points": 80
+							}
+						},
+						{
+							"id": "tNgt9e3iwcm7PfybJ",
+							"name": "Increased Strength",
+							"reference": "B14",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "moBL8zaQ4AQrCpUMV",
+									"name": "No Fine Manipulators",
+									"reference": "B15",
+									"cost": -40
+								},
+								{
+									"id": "m0y_5BaCEfuG-jGY5",
+									"name": "Size",
+									"reference": "B15",
+									"cost": -10,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mkKX55SqZWvwSebR9",
+									"name": "Super-Effort",
+									"reference": "SU24",
+									"cost": 300,
+									"disabled": true
+								}
+							],
+							"points_per_level": 10,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "st",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 7,
+							"calc": {
+								"points": 42
+							}
+						},
+						{
+							"id": "tR_Aaf6v4TicS8h1G",
+							"name": "Sharp Teeth",
+							"reference": "B91",
+							"tags": [
+								"Exotic",
+								"Perk",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mYBI7XWA4ADCIaLw3",
+									"name": "Provided by Vampiric Bite",
+									"reference": "B96",
+									"cost": -1,
+									"cost_type": "points",
+									"disabled": true
+								}
+							],
+							"base_points": 1,
+							"weapons": [
+								{
+									"id": "w2LkSoRkQ6djlqp5F",
+									"damage": {
+										"type": "cut",
+										"st": "thr",
+										"base": "-1"
+									},
+									"usage": "Bite",
+									"reach": "C",
+									"defaults": [
+										{
+											"type": "skill",
+											"name": "Brawling"
+										},
+										{
+											"type": "dx"
+										}
+									],
+									"calc": {
+										"level": 9,
+										"damage": "1d-3 cut"
+									}
+								}
+							],
+							"calc": {
+								"points": 1
+							}
+						}
+					],
+					"calc": {
+						"points": 217
+					}
+				}
+			],
+			"calc": {
+				"points": 200
+			}
+		},
+		{
+			"id": "TwlpBsuSTPNl7wiov",
+			"name": "Metal",
+			"container_type": "meta_trait",
+			"children": [
+				{
+					"id": "Tv6e4xXXQf2mwW5np",
+					"name": "Attributes",
+					"children": [
+						{
+							"id": "tzs0CVNQJN-viGMHM",
+							"name": "Damage Resistance",
+							"reference": "B47",
+							"tags": [
+								"Advantage",
+								"Exotic",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "m1_iyhqRgayhsk8LE",
+									"name": "Force Field",
+									"reference": "B47",
+									"cost": 20,
+									"disabled": true
+								},
+								{
+									"id": "mwBnc54Rvq1R23FfX",
+									"name": "Hardened",
+									"reference": "B47",
+									"cost": 20,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mCDmr4IfczdbfHXQ9",
+									"name": "Absorption",
+									"reference": "B46",
+									"notes": "Enhances @Trait@",
+									"cost": 80,
+									"disabled": true
+								},
+								{
+									"id": "m79FjyestLXHBLkDd",
+									"name": "Absorption",
+									"reference": "B46",
+									"notes": "Healing only",
+									"cost": 80,
+									"disabled": true
+								},
+								{
+									"id": "m-DsExndCEUu-aS0C",
+									"name": "Absorption",
+									"reference": "B46",
+									"notes": "Enhances any trait",
+									"cost": 100,
+									"disabled": true
+								},
+								{
+									"id": "mIelKyee8f5sqP12i",
+									"name": "Reflection",
+									"reference": "B47",
+									"cost": 100,
+									"disabled": true
+								},
+								{
+									"id": "mM8BUahL9Pt1tEJyl",
+									"name": "Bane",
+									"reference": "H14",
+									"notes": "@Rare@",
+									"cost": -1,
+									"cost_type": "points",
+									"disabled": true
+								},
+								{
+									"id": "mE3HhV1StJvCa4cSx",
+									"name": "Bane",
+									"reference": "H14",
+									"notes": "@Occasional@",
+									"cost": -5,
+									"disabled": true
+								},
+								{
+									"id": "mhS7HyzAMDSmtB7Sh",
+									"name": "Bane",
+									"reference": "H14",
+									"notes": "@Common@",
+									"cost": -10,
+									"disabled": true
+								},
+								{
+									"id": "mRoWSzaFqKGT4lJvN",
+									"name": "Bane",
+									"reference": "H14",
+									"notes": "@Very Common@",
+									"cost": -15,
+									"disabled": true
+								},
+								{
+									"id": "mXAyrC0MOhk1KWWnv",
+									"name": "Directional",
+									"reference": "B47",
+									"notes": "Front",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "mDDulyybm-l4nK4g3",
+									"name": "Flexible",
+									"reference": "B47",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "m1tksbIpkFWUPITZq",
+									"name": "Limited",
+									"reference": "B46",
+									"notes": "@Very Common Attack Form@",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "msfzlXqn3ziAuUsmA",
+									"name": "Semi-Ablative",
+									"reference": "B47",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "meNQbIxPAlSi6vrZ-",
+									"name": "Can't wear armor",
+									"reference": "B47",
+									"cost": -40,
+									"disabled": true
+								},
+								{
+									"id": "mtHs4zwLQoEgtHWxj",
+									"name": "Directional",
+									"reference": "B47",
+									"notes": "@Direction: Back, Right, Left, Top or Underside@",
+									"cost": -40,
+									"disabled": true
+								},
+								{
+									"id": "mgNvyuVNWTip2JWyP",
+									"name": "Limited",
+									"reference": "B46",
+									"notes": "@Common Attack Form@",
+									"cost": -40,
+									"disabled": true
+								},
+								{
+									"id": "m9pniZgCqGKDllUd1",
+									"name": "Tough Skin",
+									"notes": "Effects that just require skin contact or a scratch ignore this DR",
+									"cost": -40,
+									"disabled": true
+								},
+								{
+									"id": "mdByPI4_1537l5lQB",
+									"name": "Limited",
+									"reference": "B46",
+									"notes": "@Occasional Attack Form@",
+									"cost": -60,
+									"disabled": true
+								},
+								{
+									"id": "mCaugB83T-EvOu1Yi",
+									"name": "Ablative",
+									"reference": "B47",
+									"cost": -80,
+									"disabled": true
+								},
+								{
+									"id": "mr9EHFbFkznMHUaCO",
+									"name": "Limited",
+									"reference": "B46",
+									"notes": "@Rare Attack Form@",
+									"cost": -80,
+									"disabled": true
+								},
+								{
+									"id": "mtEF4kxk7S9p9cEG4",
+									"name": "Laminate",
+									"reference": "RSWL18",
+									"cost": 10,
+									"disabled": true
+								}
+							],
+							"points_per_level": 5,
+							"features": [
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"fin"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"eye"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"skull"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"face"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"neck"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"torso"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"vitals"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"groin"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"arm"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"hand"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"leg"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"foot"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"tail"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"wing"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"fin"
+									],
+									"amount": 1,
+									"per_level": true
+								},
+								{
+									"type": "dr_bonus",
+									"locations": [
+										"brain"
+									],
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 3,
+							"calc": {
+								"points": 15
+							}
+						},
+						{
+							"id": "tW-Y23yxmNXQO6stf",
+							"name": "Extra Hit Points",
+							"reference": "B16",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mWLu8XIlzjB6IHXLL",
+									"name": "Size",
+									"cost": -10,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mxF-d6_MFp8afxJTH",
+									"name": "No Fine Manipulators",
+									"cost": -40
+								}
+							],
+							"points_per_level": 2,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "hp",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 1,
+							"calc": {
+								"points": 2
+							}
+						},
+						{
+							"id": "tUTbFg1pUB5AgYmXR",
+							"name": "Increased Health",
+							"reference": "B14",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Physical"
+							],
+							"points_per_level": 10,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "ht",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 2,
+							"calc": {
+								"points": 20
+							}
+						},
+						{
+							"id": "tC8Hbsu0Th1Y2auzQ",
+							"name": "Increased Strength",
+							"reference": "B14",
+							"tags": [
+								"Advantage",
+								"Attribute",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mco9ovXcfzLfHS2c4",
+									"name": "No Fine Manipulators",
+									"reference": "B15",
+									"cost": -40
+								},
+								{
+									"id": "m6BhHq1UV6wzDykgY",
+									"name": "Size",
+									"reference": "B15",
+									"cost": -10,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mpmhdU_mBLVRBX-67",
+									"name": "Super-Effort",
+									"reference": "SU24",
+									"cost": 300,
+									"disabled": true
+								}
+							],
+							"points_per_level": 10,
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"attribute": "st",
+									"amount": 1,
+									"per_level": true
+								}
+							],
+							"can_level": true,
+							"levels": 3,
+							"calc": {
+								"points": 18
+							}
+						},
+						{
+							"id": "tCK5QtstgIw8h6b1R",
+							"name": "Resistant",
+							"reference": "B81",
+							"tags": [
+								"Advantage",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mvtjl9pc3n_kOYzAQ",
+									"name": "Metabolic Hazards",
+									"reference": "B80",
+									"cost": 30,
+									"cost_type": "points"
+								},
+								{
+									"id": "mKVHJon4AYLRZebx4",
+									"name": "@Common: Poison, Sickness, etc.@",
+									"reference": "B81",
+									"cost": 15,
+									"cost_type": "points",
+									"disabled": true
+								},
+								{
+									"id": "m32dXZ_8bu_lRrxdp",
+									"name": "@Occasional: Disease, Ingested Poison, etc.@",
+									"reference": "B81",
+									"cost": 10,
+									"cost_type": "points",
+									"disabled": true
+								},
+								{
+									"id": "mT7NhEajWoaEJ5R8H",
+									"name": "@Rare: Acceleration, Altitude Sickness, Bends, Seasickness, Space Sickness, Nanomachines, etc.@",
+									"reference": "B81",
+									"cost": 5,
+									"cost_type": "points",
+									"disabled": true
+								},
+								{
+									"id": "mfe3NzkgKBkT7y2CO",
+									"name": "Immunity",
+									"reference": "B81",
+									"cost": 1,
+									"cost_type": "multiplier",
+									"disabled": true
+								},
+								{
+									"id": "mtWxn9rFxcAE24aiN",
+									"name": "+8 to all HT rolls to resist",
+									"reference": "B81",
+									"cost": 0.5,
+									"cost_type": "multiplier"
+								},
+								{
+									"id": "mLmrqHQX-sjk_V3L4",
+									"name": "+3 to all HT rolls to resist",
+									"reference": "B81",
+									"cost": 0.33,
+									"cost_type": "multiplier",
+									"disabled": true
+								}
+							],
+							"round_down": true,
+							"calc": {
+								"points": 15
+							}
+						}
+					],
+					"calc": {
+						"points": 70
+					}
+				},
+				{
+					"id": "TN5pQp90z1lIZS7LX",
+					"name": "basic",
+					"children": [
+						{
+							"id": "tROqEDsvH9ZzwweGP",
+							"name": "Innate Attack (metal cut)",
+							"reference": "B61,P53,MA45",
+							"tags": [
+								"Advantage",
+								"Exotic",
+								"Physical"
+							],
+							"modifiers": [
+								{
+									"id": "mgErKyMLrANKlqG0O",
+									"name": "Double Blunt Trauma",
+									"reference": "B104",
+									"notes": "BT as for Crushing",
+									"cost": 20,
+									"disabled": true
+								},
+								{
+									"id": "mvU2ZE5gnWWJyJE4l",
+									"name": "Explosion",
+									"reference": "B104",
+									"cost": 50,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "m0XBv61PNqlpN3P2t",
+									"name": "Fragmentation",
+									"reference": "B104",
+									"cost": 15,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mFcUoZtD4CN5RC3uf",
+									"name": "Fragmentation",
+									"reference": "B104",
+									"notes": "Hot",
+									"cost": 15,
+									"levels": 1,
+									"disabled": true
+								},
+								{
+									"id": "mwtSrtSelt9vYW986",
+									"name": "Surge",
+									"reference": "B104",
+									"cost": 20,
+									"disabled": true
+								},
+								{
+									"id": "mu8wul_o9iLSQrrnr",
+									"name": "Armor Divisor",
+									"reference": "B102",
+									"notes": "2",
+									"cost": 50
+								},
+								{
+									"id": "mqEcLgFM7VhDnMiIn",
+									"name": "Armor Divisor",
+									"reference": "B102",
+									"notes": "3",
+									"cost": 100,
+									"disabled": true
+								},
+								{
+									"id": "mL_Al07GmOLU534Ii",
+									"name": "Armor Divisor",
+									"reference": "B102",
+									"notes": "5",
+									"cost": 150,
+									"disabled": true
+								},
+								{
+									"id": "mkZnhi82LkqCaqyPJ",
+									"name": "Armor Divisor",
+									"reference": "B102",
+									"notes": "10",
+									"cost": 200,
+									"disabled": true
+								},
+								{
+									"id": "m0Gwr7KxpET3Sly80",
+									"name": "Side Effect",
+									"reference": "B109",
+									"notes": "@Effect@",
+									"disabled": true
+								},
+								{
+									"id": "mEyczdGC148dPOXVR",
+									"name": "Symptoms",
+									"reference": "B109",
+									"notes": "@Effect@",
+									"disabled": true
+								},
+								{
+									"id": "m3PDiixMI8XW0094q",
+									"name": "Armor Divisor",
+									"reference": "B110",
+									"notes": "0.5",
+									"cost": -30,
+									"disabled": true
+								},
+								{
+									"id": "mV9wMRIvmydLJGclH",
+									"name": "Armor Divisor",
+									"reference": "B110",
+									"notes": "0.2",
+									"cost": -50,
+									"disabled": true
+								},
+								{
+									"id": "mnpBPHZbXpAqXCtM4",
+									"name": "Armor Divisor",
+									"reference": "B110",
+									"notes": "0.1",
+									"cost": -70,
+									"disabled": true
+								},
+								{
+									"id": "mEAX7eSR0skpvld1_",
+									"name": "No Blunt Trauma",
+									"reference": "B111",
+									"cost": -20,
+									"disabled": true
+								},
+								{
+									"id": "mNioCJv168uGzKEiu",
+									"name": "No Knockback",
+									"reference": "B111",
+									"cost": -10,
+									"disabled": true
+								},
+								{
+									"id": "mWLpIaE0o-8sXq_ag",
+									"name": "No Wounding",
+									"reference": "B111",
+									"cost": -50,
+									"disabled": true
+								},
+								{
+									"id": "mehl9Y7L5PVmJtD6r",
+									"name": "Incendiary",
+									"reference": "B104",
+									"cost": 10,
+									"disabled": true
+								},
+								{
+									"id": "mhHK8rP5O5KiK75c_",
+									"name": "Reduced Range, ×1/2",
+									"cost": -10
+								}
+							],
+							"points_per_level": 7,
+							"weapons": [
+								{
+									"id": "W49wYAHeJiAz2GGrf",
+									"damage": {
+										"type": "cut",
+										"base": "1d"
+									},
+									"usage": "Projectile",
+									"accuracy": "3",
+									"range": "5/50",
+									"rate_of_fire": "1",
+									"recoil": "1",
+									"defaults": [
+										{
+											"type": "skill",
+											"name": "Innate Attack",
+											"specialization": "Projectile"
+										},
+										{
+											"type": "skill",
+											"name": "Innate Attack",
+											"modifier": -2
+										},
+										{
+											"type": "dx",
+											"modifier": -4
+										}
+									],
+									"calc": {
+										"level": 9,
+										"damage": "1d cut"
+									}
+								}
+							],
+							"can_level": true,
+							"levels": 1,
+							"calc": {
+								"points": 10
+							}
+						}
+					],
+					"calc": {
+						"points": 10
+					}
+				}
+			],
+			"calc": {
+				"points": 80
+			}
+		}
+	],
+	"skills": [
+		{
+			"id": "s-53eD45oJpJ5fgvc",
+			"name": "Brawling",
+			"reference": "B182",
+			"tags": [
+				"Combat",
+				"Melee Combat",
+				"Weapon"
+			],
+			"difficulty": "dx/e",
+			"features": [
+				{
+					"type": "weapon_bonus",
+					"selection_type": "weapons_with_required_skill",
+					"name": {
+						"compare": "is",
+						"qualifier": "Brawling"
+					},
+					"level": {
+						"compare": "at_least",
+						"qualifier": 2
+					},
+					"amount": 1,
+					"per_die": true
+				}
+			],
+			"points": 2,
+			"calc": {
+				"level": 9,
+				"rsl": "DX+1"
+			}
+		},
+		{
+			"id": "sRgoJ5qow1cSgxqLU",
+			"name": "Innate Attack",
+			"reference": "B201",
+			"tags": [
+				"Combat",
+				"Ranged Combat",
+				"Weapon"
+			],
+			"specialization": "Breath",
+			"difficulty": "dx/e",
+			"defaults": [
+				{
+					"type": "dx",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Innate Attack",
+					"modifier": -2
+				}
+			],
+			"points": 2,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -4,
+				"level": 4,
+				"adjusted_level": 4,
+				"points": -4
+			},
+			"calc": {
+				"level": 9,
+				"rsl": "DX+1"
+			}
+		},
+		{
+			"id": "sqm1xicjXya1F0Q4p",
+			"name": "Innate Attack",
+			"reference": "B201",
+			"tags": [
+				"Combat",
+				"Ranged Combat",
+				"Weapon"
+			],
+			"specialization": "Projectile",
+			"difficulty": "dx/e",
+			"defaults": [
+				{
+					"type": "dx",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Innate Attack",
+					"modifier": -2
+				}
+			],
+			"points": 2,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Innate Attack",
+				"specialization": "Breath",
+				"modifier": -2,
+				"level": 7,
+				"adjusted_level": 7,
+				"points": -7
+			},
+			"calc": {
+				"level": 9,
+				"rsl": "DX+1"
+			}
+		}
+	],
+	"notes": [
+		{
+			"id": "nY7QwAL2fEoTB3zbj",
+			"text": "art by: https://capx.fandom.com/wiki/Ignishell"
+		}
+	],
+	"created_date": "2021-12-14T08:49:00-08:00",
+	"modified_date": "2024-09-10T11:50:33-03:00",
+	"calc": {
+		"swing": "1d",
+		"thrust": "1d-2",
+		"basic_lift": "20 lb",
+		"dodge_bonus": 1,
+		"move": [
+			4,
+			3,
+			2,
+			1,
+			1
+		],
+		"dodge": [
+			8,
+			7,
+			6,
+			5,
+			4
+		]
+	}
+}
